@@ -1,0 +1,14 @@
+.chatView {
+  position: relative;
+}
+
+.chatView > img {
+  cursor: pointer;
+}
+
+.chatView__timer {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  margin: 10px !important;
+}
